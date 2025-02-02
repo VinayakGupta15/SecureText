@@ -26,8 +26,8 @@ Ensure you have Python 3.x installed on your system. You can download it from [p
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/VinayakGupta15/secure-text-tool.git
-   cd secure-text-tool
+   git clone https://github.com/VinayakGupta15/SecureText.git
+   cd SecureText
    ```
 
 2. **Create a Virtual Environment**
